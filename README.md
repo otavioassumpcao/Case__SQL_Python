@@ -11,14 +11,6 @@ Este projeto foi desenvolvido como parte de um processo seletivo para estágio, 
 
 ---
 
-## Estrutura do Projeto
-
-- **`cliente.py`**: Contém a classe `Cliente`, que gerencia o registro de vendas, adição de novos clientes e exibição de saldo.
-- **`vendas.csv`** e **`clientes.csv`**: Arquivos CSV que armazenam as informações iniciais dos clientes e suas vendas.
-- **Jupyter Notebooks**: Arquivos `.ipynb` utilizados para a execução do código e manipulação de dados.
-
----
-
 ## Pré-requisitos
 
 Certifique-se de ter os seguintes pacotes instalados:
