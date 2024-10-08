@@ -36,7 +36,7 @@ Certifique-se de ter os seguintes pacotes instalados:
    source venv/bin/activate  # macOS/Linux
 
 3. Instale as dependências necessárias a partir do arquivo `requirements.txt`:
-       ```bash
+   ```bash
    python -m venv venv
    pip install -r requirements.txt
 
