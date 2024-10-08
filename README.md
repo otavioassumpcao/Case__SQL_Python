@@ -34,6 +34,8 @@ Certifique-se de ter os seguintes pacotes instalados:
 1. Clone este repositório para o seu diretório local:
    ```bash
    git clone https://github.com/otavioassumpcao/Case__SQL_Python.git
+
+   ```bash
    cd Case__SQL_Python
 
 3. (Opcional) Crie e ative um ambiente virtual:
