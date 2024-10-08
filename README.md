@@ -34,7 +34,8 @@ Certifique-se de ter os seguintes pacotes instalados:
 1. Clone este repositório para o seu diretório local:
    ```bash
    git clone https://github.com/otavioassumpcao/Case__SQL_Python.git
-
+   ```
+   
    ```bash
    cd Case__SQL_Python
 
@@ -42,12 +43,17 @@ Certifique-se de ter os seguintes pacotes instalados:
 
    ```bash
    python -m venv venv
+   ```
+   ```bash
    .\venv\Scripts\activate  # Windows
+   ````
+   ```bash
    source venv/bin/activate  # macOS/Linux
 
 4. Instale as dependências necessárias a partir do arquivo `requirements.txt`:
    ```bash
    python -m venv venv
+   ```
+   ```bash
    pip install -r requirements.txt
-
-
+   ```
