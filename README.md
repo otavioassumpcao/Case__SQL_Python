@@ -24,7 +24,6 @@ Este projeto foi desenvolvido como parte de um processo seletivo para estágio, 
 
 Certifique-se de ter os seguintes pacotes instalados:
 
-- **Python 3.8+**
 - **Jupyter Notebook**
 - **Pandas**
 - **SQLite3**
