@@ -11,6 +11,15 @@ Este projeto foi desenvolvido como parte de um processo seletivo para estágio, 
 
 ---
 
+## Estrutura do Projeto
+
+- **`Resolucao.ipynb`**: Jupyter Notebook contendo a resolução do case, incluindo a manipulação de dados e análise.
+- **`clientes.csv`** e **`vendas.csv`**: Arquivos CSV que armazenam as informações dos clientes e suas vendas.
+- **`clientes_vendas.db`**: Banco de dados SQLite gerado a partir dos arquivos CSV.
+- **`requirements.txt`**: Arquivo de dependências Python necessárias para rodar o projeto.
+
+---
+
 ## Pré-requisitos
 
 Certifique-se de ter os seguintes pacotes instalados:
