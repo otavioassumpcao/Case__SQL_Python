@@ -33,10 +33,6 @@ Certifique-se de ter os seguintes pacotes instalados:
 
 1. Clone este repositório para o seu diretório local:
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-
 2. (Opcional) Crie e ative um ambiente virtual:
 
    ```bash
